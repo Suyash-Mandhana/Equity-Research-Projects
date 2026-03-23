@@ -12,8 +12,12 @@ Equity research covering sector-level analysis and single-stock coverage across 
 | # | Project | Type | Sector / Company | Status |
 | --- | --- | --- | --- | --- |
 | 1 | [Aerospace & Defence — Sector Deep-Dive](projects/aerospace-defence-sector/) | Sector Research | Aerospace & Defence | In Progress |
-| 2 | [HAL — Equity Research Report](projects/hal-equity-research/) | Company Coverage | Hindustan Aeronautics Limited | In Progress |
-| 3 | [FMCG — Sector Overview](projects/fmcg-sector-overview/) | Sector Research | FMCG | Planned (Expansion) |
+| 2 | [FMCG — Sector Overview](projects/fmcg-sector-overview/) | Sector Research | FMCG | Planned (Expansion) |
+| 3 | [HUL - Valuation](Hul-Valuation/) | DCF + Comps | HUL / FMCG | Complete |
+| 4 | [HAL - Equity Research](HAL-Equity-Reasearch/) | DCF + Comps | HAL / AEROSPACE & DEFENCE | In Progress |
+| 5 | [Adani-Ambuja Cements M&A](projects/adani-ambuja-m&a/) | Accretion/Dilution | Adani-Ambuja Cements | In Progress |
+| 6 | [One Pagers](One-Pagers/) | Company Primers | ZOMATO, CDSL, MARICO, BHARAT ELECTRONICS, HINDUSTAN UNILEVER | Complete |
+| 7 | [Index Valuation](Index-Valuation/) | DCF + Valuation Report | S&P 500 / Index | Complete |
 
 ---
 
